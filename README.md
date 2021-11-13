@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjunpatidar23
+- 👋 Hi, I’m @Arjun patidar
 - 👀 I’m interested in Software Development and Data Structure and Algorithm
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on open source projects and daily struggling on GFG questions for interview preparation
