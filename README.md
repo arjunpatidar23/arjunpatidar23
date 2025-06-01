@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arjun Patidar
 - 👀 I’m interested in Software Development and Data Structure and Algorithm
-- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on open source projects and daily struggling on GFG questions for interview preparation
 - 📫 How to reach me email : apatidar8461@gmail.com
 
